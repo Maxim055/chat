@@ -1,0 +1,7 @@
+c:\Users\Maxim\source\repos\Chat\Client\bin\Debug\Client.exe.config
+c:\Users\Maxim\source\repos\Chat\Client\bin\Debug\Client.exe
+c:\Users\Maxim\source\repos\Chat\Client\bin\Debug\Client.pdb
+c:\Users\Maxim\source\repos\Chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\Users\Maxim\source\repos\Chat\Client\obj\Debug\Client.exe
+c:\Users\Maxim\source\repos\Chat\Client\obj\Debug\Client.pdb
+c:\Users\Maxim\source\repos\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

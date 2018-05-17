@@ -1,0 +1,7 @@
+c:\Users\Maxim\source\repos\Chat\Server\bin\Debug\Server.exe.config
+c:\Users\Maxim\source\repos\Chat\Server\bin\Debug\Server.exe
+c:\Users\Maxim\source\repos\Chat\Server\bin\Debug\Server.pdb
+c:\Users\Maxim\source\repos\Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\Users\Maxim\source\repos\Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\Users\Maxim\source\repos\Chat\Server\obj\Debug\Server.exe
+c:\Users\Maxim\source\repos\Chat\Server\obj\Debug\Server.pdb
